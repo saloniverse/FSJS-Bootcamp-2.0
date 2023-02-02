@@ -1,5 +1,5 @@
 # FSJS-Bootcamp-2.0
-This is a readme file including all the links of the projects.
+This is a readme file including all the links of the HTML and CSS projects provided as a part of FullStack JavaScript Bootcamp 2.0
 
 
  * ## 01_Project- SEO Master Page
